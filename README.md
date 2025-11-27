@@ -38,6 +38,8 @@ This is **the only repo you need** to master Low-Level Design.
 
 ## 🔥 Complete List of All 50 LLD Problems
 
+System Design Theory PDF : Credit -> Interview Bit
+
 | # | LLD Problem Name |
 |---|------------------------------|
 | 01 | Design a Rate Limiter |

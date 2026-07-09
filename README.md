@@ -1,4 +1,4 @@
-# 🚀🔥 50 LLD PROBLEMS SOLVED — THE UNBEATABLE LOW-LEVEL DESIGN MEGAPACK 🔥🚀
+# 🔥 50 LLD PROBLEMS SOLVED — THE UNBEATABLE LOW-LEVEL DESIGN MEGAPACK 🔥
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/64920946?v=4" width="150" height="150" style="border-radius:50%;">

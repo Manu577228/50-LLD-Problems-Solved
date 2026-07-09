@@ -12,7 +12,7 @@
 
 ---
 
-## 🌟 What Is This Repository ?
+## 🌟 What Is This Repository?
 
 This repository is a **power-packed, interview-ready, enterprise-grade Low-Level Design (LLD) arsenal** containing **50 real-world system design problems**, each solved in **both Python and Java**.  
 
